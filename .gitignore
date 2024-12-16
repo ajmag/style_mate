@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+venv/
+.venv/
+
+# Node.js
+
+# Environment Variables
+.env
+
+# Ignore logs and temp files
+*.log
+*.tmp
